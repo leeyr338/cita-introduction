@@ -54,7 +54,7 @@
 
 ###### JsonRPC命令背后的故事
  - [前言](JsonRPC-back-story/preface.md)
- - peerCount
+ - [peerCount](JsonRPC-back-story/peerCount.md)
  - blockNumber
  - sendRawTransaction
  - getBlockByHash
